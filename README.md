@@ -1,6 +1,8 @@
 # OnePageWonder
 [Startbootstrap-One-Page-Wonder Theme Page](https://startbootstrap.com/template-overviews/one-page-wonder/)
 
+[![Gem Version](https://badge.fury.io/rb/one_page_wonder.svg)](https://badge.fury.io/rb/one_page_wonder)
+
 Install this theme with ease.
 
 ## Installation
